@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <EmployeeName>Manthan Mahajan</EmployeeName>
+        <Designation>Technical Writer</Designation>
+        <DateOfJoining>01-12-2023</DateOfJoining>
+        <Address>Pune</Address>
+        <Salary>600000</Salary>
+    </employee>
+        <employee>
+        <EmployeeName>Ram Gahal</EmployeeName>
+        <Designation>Developer</Designation>
+        <DateOfJoining>15-12-2023</DateOfJoining>
+        <Address>Mumbai</Address>
+        <Salary>400000</Salary>
+    </employee>
+</employees>
